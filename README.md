@@ -73,7 +73,7 @@
 | [Poloniex](https://poloniex.com/)  | 0.1% / 0.2% | Маржинальная торговля |
 | [Bittrex](https://bittrex.com/)  | 0.25% / 0.25% | Часто лагает по API |
 | [Wex](https://wex.nz/)  | 0.2% / 0.2% | Идеальное API. Полностью на русском |
-| [Bitfinex](https://www.bitfinex.com/) | 0.1% / 0.2% Первые 30 дней комиссия 0%| Чтобы начать торги нужно иметь не меньше 10000$. Маржинальная торговля. Владельцы USDT |
+| [Bitfinex](https://www.bitfinex.com/) | 0.1% / 0.2% Первые 30 дней комиссия 0%| Маржинальная торговля. Владельцы USD |
 | [DSX](https://dsx.uk/)  | 0.2% / 0.35% | Дают виртуальные деньги на время обучения. Округляют в свою пользу. По сути "пыль" забирают себе |
 | [Exmo](https://exmo.me/)  | 0.2% / 0.2% | API практически всегда недоступно. Ключи дополнительные получать только через тех.поддержку. Не рекомундуем |
 | [Liqui](https://liqui.io/)  | 0.1% / 0.25% | Иногда глючит API. Простая и понятная |
@@ -130,6 +130,8 @@
 
 * [Официальный сайт](https://gekko.wizb.it/)
 * [Gekko Support Discord](https://discordapp.com/invite/26wMygt)
+* [Free strategies](https://github.com/xFFFFF/Gekko-Strategies)
+* [Datasets (full history)](https://github.com/xFFFFF/Gekko-Datasets)
 
 ## В ближайшее время
 
